@@ -7,7 +7,7 @@
 
 [English](README.md) | [简体中文](./README_zh_CN.md)
 
-🚀 **Welcome to the SKGF (Scientific Knowledge Graph Fusion) Repository!** 🎉🎉🎉
+🚀 **Welcome to the Self-Fusion for SKGF (Scientific Knowledge Graph Fusion) Repository!** 🎉🎉🎉
 
 This repository contains the source code for Self-Fusion.
 
